@@ -110,7 +110,7 @@ function App() {
         </Block>
 
         <Block factor={1.5} offset={3}>
-          <RhinoModel2 scale={[2, 2, 2]} />
+          {/* <RhinoModel2 scale={[2, 2, 2]} /> */}
           <Html center portal={domContent}>
             <h2 id="section3">Programmeur</h2>
           </Html>
