@@ -98,7 +98,7 @@ function App() {
           <Box />
           <Html center portal={domContent}>
             <h2 id="section1">Maker</h2>
-            <SectionComponent content="test" />
+            <SectionComponent content="test1" />
           </Html>
         </Block>
 
